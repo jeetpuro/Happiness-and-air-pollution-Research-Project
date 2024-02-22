@@ -1,162 +1,77 @@
-City,Country,2019,Continent,Score
-Kabul,Afghanistan,58.8,Asia,3.203
-Tirana,Albania,,Europe,4.719
-Algiers,Algeria,21.2,Africa,5.211
-Buenos Aires,Argentina,12.4,South America,6.086
-Yerevan,Armenia,25.5,Asia,4.559
-Yerevan,Armenia,25.5,Europe,4.559
-Canberra,Australia,15.0,Oceania,7.228
-Vienna,Austria,12.3,Europe,7.246
-Baku,Azerbaijan,,Asia,5.208
-Baku,Azerbaijan,,Europe,5.208
-Manama,Bahrain,46.8,Asia,6.199
-Dhaka,Bangladesh,83.3,Asia,4.456
-Minsk,Belarus,,Europe,5.323
-Brussels,Belgium,14.1,Europe,6.923
-Porto-Novo,Benin,,Africa,4.883
-Thimphu,Bhutan,,Asia,5.082
-"Sucre (official), La Paz (seat of government)",Bolivia,,South America,5.779
-Sarajevo,Bosnia and Herzegovina,,Europe,5.386
-Gaborone,Botswana,,Africa,3.488
-Brasília,Brazil,,South America,6.3
-Sofia,Bulgaria,26.8,Europe,5.011
-Ouagadougou,Burkina Faso,,Africa,4.587
-Gitega,Burundi,,Africa,3.775
-Phnom Penh,Cambodia,21.1,Asia,4.7
-Yaoundé,Cameroon,,Africa,5.044
-Ottawa,Canada,7.3,North America,7.278
-Bangui,Central African Republic,,Africa,3.083
-N'Djamena,Chad,,Africa,4.35
-Santiago,Chile,27.7,South America,6.444
-Beijing,China,42.1,Asia,5.191
-Bogotá,Colombia,,South America,6.125
-Moroni,Comoros,,Africa,3.973
-,Congo (Brazzaville),,,4.812
-,Congo (Kinshasa),,,4.418
-San Jose,Costa Rica,10.4,North America,7.167
-Zagreb,Croatia,,Europe,5.432
-Nicosia,Cyprus,19.2,Europe,6.046
-Prague,Czech Republic,11.5,Europe,6.852
-Copenhagen,Denmark,9.6,Europe,7.6
-Santo Domingo,Dominican Republic,,North America,5.425
-Quito,Ecuador,,South America,6.028
-Cairo,Egypt,,Africa,4.166
-San Salvador,El Salvador,,North America,6.253
-Tallinn,Estonia,5.5,Europe,5.893
-Addis Ababa,Ethiopia,20.1,Africa,4.286
-Helsinki,Finland,6.0,Europe,7.769
-Paris,France,14.7,Europe,6.592
-Libreville,Gabon,,Africa,4.799
-Banjul,Gambia,,Africa,4.516
-Tbilisi,Georgia,20.1,Asia,4.519
-Tbilisi,Georgia,20.1,Europe,4.519
-Berlin,Germany,9.7,Europe,6.985
-Accra,Ghana,30.3,Africa,4.996
-Athens,Greece,22.3,Europe,5.287
-Guatemala City,Guatemala,,North America,6.436
-Conakry,Guinea,,Africa,4.534
-Port-au-Prince,Haiti,,North America,3.597
-Tegucigalpa,Honduras,,North America,5.86
-,Hong Kong,,,5.43
-Budapest,Hungary,14.0,Europe,5.758
-Reykjavik,Iceland,5.5,Europe,7.494
-New Delhi,India,,Asia,4.015
-Jakarta,Indonesia,49.4,Asia,5.192
-Tehran,Iran,25.9,Asia,4.548
-Baghdad,Iraq,39.6,Asia,4.437
-Dublin,Ireland,10.6,Europe,7.021
-Jerusalem,Israel,20.9,Asia,7.139
-Rome,Italy,12.9,Europe,6.223
-Yamoussoukro,Ivory Coast,,Africa,4.944
-Kingston,Jamaica,,North America,5.89
-Tokyo,Japan,11.7,Asia,5.886
-Amman,Jordan,,Asia,4.906
-Nur-Sultan,Kazakhstan,23.6,Europe,5.809
-Nur-Sultan,Kazakhstan,23.6,Asia,5.809
-Nairobi,Kenya,,Africa,4.509
-Pristina,Kosovo,23.5,Europe,6.1
-Kuwait City,Kuwait,38.3,Asia,6.021
-Bishkek,Kyrgyzstan,33.2,Asia,5.261
-Vientiane,Laos,23.1,Asia,4.796
-Riga,Latvia,,Europe,5.94
-Beirut,Lebanon,,Asia,5.197
-Maseru,Lesotho,,Africa,3.802
-Monrovia,Liberia,,Africa,3.975
-Tripoli,Libya,,Africa,5.525
-Vilnius,Lithuania,15.8,Europe,6.149
-Luxembourg,Luxembourg,,Europe,7.09
-Antananarivo,Madagascar,,Africa,3.933
-Lilongwe,Malawi,,Africa,3.41
-Kuala Lumpur,Malaysia,21.6,Asia,5.339
-Bamako,Mali,,Africa,4.39
-Valletta,Malta,,Europe,6.726
-Nouakchott,Mauritania,,Africa,4.49
-Port Louis,Mauritius,,Africa,5.888
-Mexico City,Mexico,20.5,North America,6.595
-Chisinau,Moldova,,Europe,5.529
-Ulaanbaatar,Mongolia,62.0,Asia,5.285
-Podgorica,Montenegro,,Europe,5.523
-Rabat,Morocco,,Africa,5.208
-Maputo,Mozambique,,Africa,4.466
-,Myanmar,,,4.36
-Windhoek,Namibia,,Africa,4.639
-Kathmandu,Nepal,48.0,Asia,4.913
-Amsterdam,Netherlands,10.7,Europe,7.488
-Wellington,New Zealand,,Oceania,7.307
-Managua,Nicaragua,,North America,6.105
-Niamey,Niger,,Africa,4.628
-Abuja,Nigeria,,Africa,5.265
-Skopje,North Macedonia,32.4,Europe,5.274
-,Northern Cyprus,,,5.718
-Oslo,Norway,7.5,Europe,7.554
-Islamabad,Pakistan,35.2,Asia,5.653
-,Palestinian Territories,,,4.696
-Panama City,Panama,,North America,6.321
-Asunción,Paraguay,,South America,5.743
-Lima,Peru,23.7,South America,5.697
-Manila,Philippines,,Asia,5.631
-Warsaw,Poland,17.3,Europe,6.182
-Lisbon,Portugal,9.4,Europe,5.693
-Doha,Qatar,,Asia,6.374
-Bucharest,Romania,18.4,Europe,6.07
-Moscow,Russia,10.0,Europe,5.648
-Kigali,Rwanda,,Africa,3.334
-Riyadh,Saudi Arabia,22.1,Asia,6.375
-Dakar,Senegal,,Africa,4.681
-Belgrade,Serbia,23.3,Europe,5.603
-Freetown,Sierra Leone,,Africa,4.374
-Singapore,Singapore,19.0,Asia,6.262
-Bratislava,Slovakia,13.6,Europe,6.198
-Ljubljana,Slovenia,,Europe,6.118
-Mogadishu,Somalia,,Africa,4.668
-Pretoria,South Africa,25.5,Africa,4.722
-Seoul,South Korea,24.8,Asia,5.895
-Juba,South Sudan,,Africa,2.853
-Madrid,Spain,9.2,Europe,6.354
-Colombo,Sri Lanka,25.2,Asia,4.366
-,Swaziland,,,4.212
-Stockholm,Sweden,6.1,Europe,7.343
-Bern,Switzerland,10.9,Europe,7.48
-Damascus,Syria,,Asia,3.462
-,Taiwan,,,6.446
-Dushanbe,Tajikistan,,Asia,5.467
-Dodoma,Tanzania,,Africa,3.231
-Bangkok,Thailand,22.8,Asia,6.008
-Lomé,Togo,,Africa,4.085
-,Trinidad & Tobago,,,6.192
-Tunis,Tunisia,,Africa,4.461
-Ankara,Turkey,18.4,Europe,5.373
-Ankara,Turkey,18.4,Asia,5.373
-Ashgabat,Turkmenistan,,Asia,5.247
-Kampala,Uganda,29.1,Africa,4.189
-Kyiv,Ukraine,16.6,Europe,4.332
-Abu Dhabi,United Arab Emirates,38.4,Asia,6.825
-London,United Kingdom,11.4,Europe,7.054
-"Washington, D.C.",United States,,North America,6.892
-Montevideo,Uruguay,,South America,6.293
-Tashkent,Uzbekistan,41.2,Asia,6.174
-Caracas,Venezuela,,South America,4.707
-Hanoi,Vietnam,46.9,Asia,5.175
-Sana'a,Yemen,,Asia,3.38
-Lusaka,Zambia,,Africa,4.107
-Harare,Zimbabwe,,Africa,3.663
+Continent,Country,PM2.5,Happiness Score
+Asia,Afghanistan,58.8,3.203
+Africa,Algeria,21.2,5.211
+South America,Argentina,12.4,6.086
+Asia,Armenia,25.5,4.559
+Europe,Armenia,25.5,4.559
+Oceania,Australia,15.0,7.228
+Europe,Austria,12.3,7.246
+Asia,Bahrain,46.8,6.199
+Asia,Bangladesh,83.3,4.456
+Europe,Belgium,14.1,6.923
+Europe,Bulgaria,26.8,5.011
+Asia,Cambodia,21.1,4.7
+North America,Canada,7.3,7.278
+South America,Chile,27.7,6.444
+Asia,China,42.1,5.191
+North America,Costa Rica,10.4,7.167
+Europe,Cyprus,19.2,6.046
+Europe,Czech Republic,11.5,6.852
+Europe,Denmark,9.6,7.6
+Europe,Estonia,5.5,5.893
+Africa,Ethiopia,20.1,4.286
+Europe,Finland,6.0,7.769
+Europe,France,14.7,6.592
+Asia,Georgia,20.1,4.519
+Europe,Georgia,20.1,4.519
+Europe,Germany,9.7,6.985
+Africa,Ghana,30.3,4.996
+Europe,Greece,22.3,5.287
+Europe,Hungary,14.0,5.758
+Europe,Iceland,5.5,7.494
+Asia,Indonesia,49.4,5.192
+Asia,Iran,25.9,4.548
+Asia,Iraq,39.6,4.437
+Europe,Ireland,10.6,7.021
+Asia,Israel,20.9,7.139
+Europe,Italy,12.9,6.223
+Asia,Japan,11.7,5.886
+Europe,Kazakhstan,23.6,5.809
+Asia,Kazakhstan,23.6,5.809
+Europe,Kosovo,23.5,6.1
+Asia,Kuwait,38.3,6.021
+Asia,Kyrgyzstan,33.2,5.261
+Asia,Laos,23.1,4.796
+Europe,Lithuania,15.8,6.149
+Asia,Malaysia,21.6,5.339
+North America,Mexico,20.5,6.595
+Asia,Mongolia,62.0,5.285
+Asia,Nepal,48.0,4.913
+Europe,Netherlands,10.7,7.488
+Europe,North Macedonia,32.4,5.274
+Europe,Norway,7.5,7.554
+Asia,Pakistan,35.2,5.653
+South America,Peru,23.7,5.697
+Europe,Poland,17.3,6.182
+Europe,Portugal,9.4,5.693
+Europe,Romania,18.4,6.07
+Europe,Russia,10.0,5.648
+Asia,Saudi Arabia,22.1,6.375
+Europe,Serbia,23.3,5.603
+Asia,Singapore,19.0,6.262
+Europe,Slovakia,13.6,6.198
+Africa,South Africa,25.5,4.722
+Asia,South Korea,24.8,5.895
+Europe,Spain,9.2,6.354
+Asia,Sri Lanka,25.2,4.366
+Europe,Sweden,6.1,7.343
+Europe,Switzerland,10.9,7.48
+Asia,Thailand,22.8,6.008
+Europe,Turkey,18.4,5.373
+Asia,Turkey,18.4,5.373
+Africa,Uganda,29.1,4.189
+Europe,Ukraine,16.6,4.332
+Asia,United Arab Emirates,38.4,6.825
+Europe,United Kingdom,11.4,7.054
+Asia,Uzbekistan,41.2,6.174
+Asia,Vietnam,46.9,5.175
