@@ -1,0 +1,3 @@
+grafer vi ska använda:
+
+    regression för medelvärde på happiness eller air pollution

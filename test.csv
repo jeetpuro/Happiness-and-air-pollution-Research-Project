@@ -1,0 +1,201 @@
+City,Country,2019,Continent
+Kabul,Afghanistan,58.8,Asia
+Tirana,Albania,,Europe
+Algiers,Algeria,21.2,Africa
+Andorra la Vella,Andorra,,Europe
+Luanda,Angola,15.9,Africa
+St. John's,Antigua and Barbuda,,North America
+Buenos Aires,Argentina,12.4,South America
+Yerevan,Armenia,25.5,Asia
+Yerevan,Armenia,25.5,Europe
+Canberra,Australia,15.0,Oceania
+Vienna,Austria,12.3,Europe
+Baku,Azerbaijan,,Asia
+Baku,Azerbaijan,,Europe
+Nassau,Bahamas,,North America
+Manama,Bahrain,46.8,Asia
+Dhaka,Bangladesh,83.3,Asia
+Bridgetown,Barbados,,North America
+Minsk,Belarus,,Europe
+Brussels,Belgium,14.1,Europe
+Belmopan,Belize,,North America
+Porto-Novo,Benin,,Africa
+Thimphu,Bhutan,,Asia
+"Sucre (official), La Paz (seat of government)",Bolivia,,South America
+Sarajevo,Bosnia and Herzegovina,,Europe
+Gaborone,Botswana,,Africa
+Brasília,Brazil,,South America
+Bandar Seri Begawan,Brunei,,Asia
+Sofia,Bulgaria,26.8,Europe
+Ouagadougou,Burkina Faso,,Africa
+Gitega,Burundi,,Africa
+Praia,Cabo Verde,,Africa
+Phnom Penh,Cambodia,21.1,Asia
+Yaoundé,Cameroon,,Africa
+Ottawa,Canada,7.3,North America
+Bangui,Central African Republic,,Africa
+N'Djamena,Chad,,Africa
+Santiago,Chile,27.7,South America
+Beijing,China,42.1,Asia
+Bogotá,Colombia,,South America
+Moroni,Comoros,,Africa
+San Jose,Costa Rica,10.4,North America
+Zagreb,Croatia,,Europe
+Havana,Cuba,,North America
+Nicosia,Cyprus,19.2,Europe
+Prague,Czech Republic,11.5,Europe
+Kinshasa,Democratic Republic of the Congo,32.1,Africa
+Copenhagen,Denmark,9.6,Europe
+Djibouti,Djibouti,,Africa
+Roseau,Dominica,,North America
+Santo Domingo,Dominican Republic,,North America
+Dili,East Timor (Timor-Leste),,Asia
+Quito,Ecuador,,South America
+Cairo,Egypt,,Africa
+San Salvador,El Salvador,,North America
+Malabo,Equatorial Guinea,,Africa
+Asmara,Eritrea,,Africa
+Tallinn,Estonia,5.5,Europe
+Mbabane,Eswatini,,Africa
+Addis Ababa,Ethiopia,20.1,Africa
+Suva,Fiji,,Oceania
+Helsinki,Finland,6.0,Europe
+Paris,France,14.7,Europe
+Libreville,Gabon,,Africa
+Banjul,Gambia,,Africa
+Tbilisi,Georgia,20.1,Asia
+Tbilisi,Georgia,20.1,Europe
+Berlin,Germany,9.7,Europe
+Accra,Ghana,30.3,Africa
+Athens,Greece,22.3,Europe
+St. George's,Grenada,,North America
+Guatemala City,Guatemala,,North America
+Conakry,Guinea,,Africa
+Bissau,Guinea-Bissau,,Africa
+Georgetown,Guyana,,South America
+Port-au-Prince,Haiti,,North America
+Tegucigalpa,Honduras,,North America
+Budapest,Hungary,14.0,Europe
+Reykjavik,Iceland,5.5,Europe
+New Delhi,India,,Asia
+Jakarta,Indonesia,49.4,Asia
+Tehran,Iran,25.9,Asia
+Baghdad,Iraq,39.6,Asia
+Dublin,Ireland,10.6,Europe
+Jerusalem,Israel,20.9,Asia
+Rome,Italy,12.9,Europe
+Yamoussoukro,Ivory Coast,,Africa
+Kingston,Jamaica,,North America
+Tokyo,Japan,11.7,Asia
+Amman,Jordan,,Asia
+Nur-Sultan,Kazakhstan,23.6,Europe
+Nur-Sultan,Kazakhstan,23.6,Asia
+Nairobi,Kenya,,Africa
+South Tarawa,Kiribati,,Oceania
+Pristina,Kosovo,23.5,Europe
+Kuwait City,Kuwait,38.3,Asia
+Bishkek,Kyrgyzstan,33.2,Asia
+Vientiane,Laos,23.1,Asia
+Riga,Latvia,,Europe
+Beirut,Lebanon,,Asia
+Maseru,Lesotho,,Africa
+Monrovia,Liberia,,Africa
+Tripoli,Libya,,Africa
+Vaduz,Liechtenstein,,Europe
+Vilnius,Lithuania,15.8,Europe
+Luxembourg,Luxembourg,,Europe
+Antananarivo,Madagascar,,Africa
+Lilongwe,Malawi,,Africa
+Kuala Lumpur,Malaysia,21.6,Asia
+Male,Maldives,,Asia
+Bamako,Mali,,Africa
+Valletta,Malta,,Europe
+Majuro,Marshall Islands,,Oceania
+Nouakchott,Mauritania,,Africa
+Port Louis,Mauritius,,Africa
+Mexico City,Mexico,20.5,North America
+Palikir,Micronesia,,Oceania
+Chisinau,Moldova,,Europe
+Monaco,Monaco,,Europe
+Ulaanbaatar,Mongolia,62.0,Asia
+Podgorica,Montenegro,,Europe
+Rabat,Morocco,,Africa
+Maputo,Mozambique,,Africa
+Naypyidaw,Myanmar (Burma),,Asia
+Windhoek,Namibia,,Africa
+Yaren,Nauru,,Oceania
+Kathmandu,Nepal,48.0,Asia
+Amsterdam,Netherlands,10.7,Europe
+Wellington,New Zealand,,Oceania
+Managua,Nicaragua,,North America
+Niamey,Niger,,Africa
+Abuja,Nigeria,,Africa
+Pyongyang,North Korea,,Asia
+Skopje,North Macedonia,32.4,Europe
+Oslo,Norway,7.5,Europe
+Muscat,Oman,,Asia
+Islamabad,Pakistan,35.2,Asia
+Ngerulmud,Palau,,Oceania
+Panama City,Panama,,North America
+Port Moresby,Papua New Guinea,,Oceania
+Asunción,Paraguay,,South America
+Lima,Peru,23.7,South America
+Manila,Philippines,,Asia
+Warsaw,Poland,17.3,Europe
+Lisbon,Portugal,9.4,Europe
+Doha,Qatar,,Asia
+Brazzaville,Republic of the Congo,,Africa
+Bucharest,Romania,18.4,Europe
+Moscow,Russia,10.0,Europe
+Kigali,Rwanda,,Africa
+Basseterre,Saint Kitts and Nevis,,North America
+Castries,Saint Lucia,,North America
+Kingstown,Saint Vincent and the Grenadines,,North America
+Apia,Samoa,,Oceania
+San Marino,San Marino,,Europe
+São Tomé,Sao Tome and Principe,,Africa
+Riyadh,Saudi Arabia,22.1,Asia
+Dakar,Senegal,,Africa
+Belgrade,Serbia,23.3,Europe
+Victoria,Seychelles,,Africa
+Freetown,Sierra Leone,,Africa
+Singapore,Singapore,19.0,Asia
+Bratislava,Slovakia,13.6,Europe
+Ljubljana,Slovenia,,Europe
+Honiara,Solomon Islands,,Oceania
+Mogadishu,Somalia,,Africa
+Pretoria,South Africa,25.5,Africa
+Seoul,South Korea,24.8,Asia
+Juba,South Sudan,,Africa
+Madrid,Spain,9.2,Europe
+Colombo,Sri Lanka,25.2,Asia
+Khartoum,Sudan,,Africa
+Paramaribo,Suriname,,South America
+Stockholm,Sweden,6.1,Europe
+Bern,Switzerland,10.9,Europe
+Damascus,Syria,,Asia
+Dushanbe,Tajikistan,,Asia
+Dodoma,Tanzania,,Africa
+Bangkok,Thailand,22.8,Asia
+Lomé,Togo,,Africa
+Nuku'alofa,Tonga,,Oceania
+Port of Spain,Trinidad and Tobago,,North America
+Tunis,Tunisia,,Africa
+Ankara,Turkey,18.4,Europe
+Ankara,Turkey,18.4,Asia
+Ashgabat,Turkmenistan,,Asia
+Funafuti,Tuvalu,,Oceania
+Kampala,Uganda,29.1,Africa
+Kyiv,Ukraine,16.6,Europe
+Abu Dhabi,United Arab Emirates,38.4,Asia
+London,United Kingdom,11.4,Europe
+"Washington, D.C.",United States,,North America
+Montevideo,Uruguay,,South America
+Tashkent,Uzbekistan,41.2,Asia
+Port Vila,Vanuatu,,Oceania
+Vatican City,Vatican City,,Europe
+Caracas,Venezuela,,South America
+Hanoi,Vietnam,46.9,Asia
+Sana'a,Yemen,,Asia
+Lusaka,Zambia,,Africa
+Harare,Zimbabwe,,Africa
